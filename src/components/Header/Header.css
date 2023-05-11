@@ -1,0 +1,21 @@
+header{
+    padding:10px;
+    position: fixed;
+    top: 0px;
+    z-index: 100;
+    right: 0px;
+    left: 0px;
+    background-color: #fff;
+    box-shadow: 10px 10px 8px -12px #888888;
+}
+.logo{
+    width: 120px;
+}
+.nav-contact{
+    display: flex;
+    list-style-type: none;
+    gap:40px;
+    font-weight: 500;
+    justify-content: end;
+    margin-bottom: 0px;
+}

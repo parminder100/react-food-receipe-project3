@@ -1,0 +1,21 @@
+.recipe-details{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+.instruction-btn{
+    background-color: #cd5c5c;
+    border-color: #cd5c5c;
+    border-width: 0px;
+    padding: 6px 20px 6px 20px;
+    border-radius: 8px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 10px;
+}
+.recipe-name{
+    margin-top: 90px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}

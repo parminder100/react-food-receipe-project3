@@ -1,0 +1,18 @@
+.owl-carousel .owl-item img{
+    width: 365px;
+    height: 285px;
+    border-radius: 10px;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+.owl-stage-outer{
+    font-weight: 500;
+}
+.veggies-heading{
+    margin-bottom: 30px;
+}
+.carousel-item img{
+    height: 400px;
+}
